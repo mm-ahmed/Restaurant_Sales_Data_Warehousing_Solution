@@ -1,0 +1,100 @@
+customer number,promotion ID,productPurchased,productPurchased3Qty,Qty Purchased,dateOfPurchase,paymentType,payoutAmount,firstname,Age,postcode,state,status,device,last_name_cleansed,place_of_purchase_cleansed,date_paid_cleansed,email_cleansed
+16,57, Burrito,1,4,2022-03-06,bank,15,mark,39,5074,SA,Approved,Mobile,belperio,La Taqueria,2023-03-27,markbelperio@gmail.com
+18,57,Quesadilla,2,4,2022-03-06,bank,15,ben,58,3783,VIC,Declined,Mobile,nicolaou,El Rancho,1990-01-01,bennicolaou@gmail.com
+37,57,Quesadilla 4,2,4,2022-03-16,bank,15,neha,70,7170,TAS,Declined,Mobile,finearty,La Cantina,1990-01-01,nehafinearty@gmail.com
+43,57, Burrito,1,2,2022-03-08,bank,10,abhisar,72,3105,VIC,Temporarily Declined,Desktop,soccio,La Cantina,1990-01-01,abhisarsoccio@gmail.com
+38,57, Burrito,1,1,2022-03-18,bank,15,pam,20,7170,TAS,Approved,Mobile,spinks,La Cantina,2023-03-30,pamspinks@gmail.com
+76,57,Quesadilla 4,2,2,2022-03-28,bank,10,sonu,47,5073,SA,Temporarily Declined,Desktop,leppa,La Taqueria,1990-01-01,sonuleppa@gmail.com
+72,57,Quesadilla,2,3,2022-03-22,VISA-gift-card,10,jason,44,3875,VIC,Declined,Desktop,howlett,La Cantina,1990-01-01,jasonhowlett@gmail.com
+69,57, Burrito,1,4,2022-03-29,bank,15,michael,66,6009,WA,Declined,Desktop,hanson,El Patio,1990-01-01,michaelhanson@gmail.com
+59,57,Quesadilla 4,2,4,2022-03-26,bank,10,aleem,18,3185,VIC,Declined,Desktop,black,El Rancho,1990-01-01,aleemblack@gmail.com
+83,57,Quesadilla 4,2,1,2022-03-28,bank,10,sun,84,3159,VIC,Declined,Desktop,howard,El Patio,1990-01-01,sunhoward@gmail.com
+86,57,Quesadilla 4S,2,2,2022-03-30,bank,15,dan,52,3356,VIC,Declined,Desktop,INVALID LASTNAME,La Taqueria,1990-01-01,developments@gmail.com
+97,57, Burrito,1,3,2022-03-23,bank,15,chris,86,5061,SA,Approved,Mobile,scott,La Taqueria,1990-01-01,chrisscott@gmail.com
+1,57,Quesadilla 4S,2,4,2022-03-07,bank,15,adriano,44,3101,VIC,Approved,Mobile,ball,El Rancho,2023-03-27,adrianoball@gmail.com
+2,57,Quesadilla 4,2,2,2022-03-09,bank,10,benjamin,48,2508,NSW,Approved,Mobile,cullen,El Rancho,2023-03-27,benjamincullen@gmail.com
+3,57, Burrito,1,3,2022-03-09,bank,15,ben,37,6051,WA,Approved,Mobile,collins,El Rancho,2023-03-27,bencollins@gmail.com
+4,57, Burrito,1,4,2022-03-10,bank,15,michael,80,2500,NSW,Approved,Mobile,jobson,La Cantina,2023-03-27,michaeljobson@gmail.com
+5,57, Burrito,1,3,2022-03-10,VISA-gift-card,15,tony,34,3130,VIC,Approved,Mobile,elkins,El Patio,2023-03-30,tonyelkins@gmail.com
+6,57,Guacamole and Chips,7,2,2022-02-10,bank,5,steve,36,3155,VIC,Approved,Desktop,everett,El Patio,2023-04-28,steveeverett@gmail.com
+7,57,Quesadilla 4,2,3,2022-03-02,bank,15,scott,86,5158,SA,Approved,Mobile,brownridge,El Rancho,2023-03-27,scottbrownridge@gmail.com
+8,57, Burrito,1,2,2022-03-01,bank,15,jeffrey,69,3108,VIC,Approved,Mobile,ee,La Cantina,2023-03-27,jeffreyee@gmail.com
+9,57,Quesadilla 4S,2,1,2022-03-02,bank,15,anthony,86,3083,VIC,Approved,Desktop,torcasio,El Patio,2023-03-27,anthonytorcasio@gmail.com
+10,57, Burrito,1,1,2022-03-01,bank,15,eddy,49,3109,VIC,Approved,Mobile,lo,La Cantina,2023-03-27,eddylo@gmail.com
+11,57, Burrito,1,1,2022-03-03,bank,15,eugene,25,3130,VIC,Approved,Desktop,tsai,La Cantina,2023-03-27,eugenetsai@gmail.com
+12,57, Burrito,1,1,2022-03-04,bank,15,graeme,42,3160,VIC,Approved,Mobile,wootton,El Patio,2023-03-27,graemewootton@gmail.com
+13,57, Burrito,1,1,2022-03-04,bank,15,jason,25,3150,VIC,Approved,Desktop,kong,El Rancho,2023-03-27,jasonkong@gmail.com
+14,57, Burrito,1,2,2022-03-06,bank,15,jonothan,32,3786,VIC,Approved,Desktop,stribling,El Patio,2023-03-27,jonothanstribling@gmail.com
+15,57, Burrito,1,4,2022-03-06,bank,10,alex,41,4212,QLD,Approved,Mobile,kasapolli,El Rancho,2023-03-27,alexkasapolli@gmail.com
+17,57, Burrito,1,3,2022-03-06,bank,15,adrian and sarah,52,4350,QLD,Approved,Desktop,gustafson,La Taqueria,2023-03-27,sarahgustafson@gmail.com
+19,57,Quesadilla 4,2,1,2022-03-06,VISA-gift-card,10,john,76,2065,NSW,Approved,Desktop,grant,El Rancho,2023-03-30,johngrant@gmail.com
+20,57, Burrito,1,1,2022-03-01,VISA-gift-card,10,steve,88,3363,VIC,Approved,Mobile,INVALID LASTNAME,La Taqueria,2023-03-30,rue@gmail.com
+21,57, Burrito,1,2,2022-03-07,bank,15,scott,18,5043,SA,Approved,Mobile,craggs,El Patio,2023-03-27,scottcraggs@gmail.com
+22,57,Fajitas,4,2,2022-03-07,bank,15,jeffrey,44,2067,NSW,Approved,Desktop,belperio,El Patio,2023-03-27,jeffreybelperio@gmail.com
+23,57,Quesadilla 4S,2,1,2022-03-08,bank,15,anthony,57,3075,VIC,Approved,Desktop,nicolaou,El Patio,2023-03-27,anthonynicolaou@gmail.com
+24,57,Quesadilla 4,2,3,2022-03-02,bank,15,fatima,79,5089,SA,Approved,Desktop,finearty,El Rancho,2023-03-27,fatimafinearty@gmail.com
+25,57,Quesadilla 4,2,3,2022-03-14,bank,10,mark,64,3058,VIC,Approved,Desktop,soccio,La Cantina,2023-03-27,marksoccio@gmail.com
+26,57, Burrito,1,1,2022-03-16,bank,15,marcel,21,3124,VIC,Approved,Desktop,spinks,La Cantina,2023-03-27,marcelspinks@gmail.com
+27,57,Quesadilla 4S,2,1,2022-03-17,bank,15,nic,65,5007,SA,Approved,Desktop,leppa,La Taqueria,2023-03-27,nicleppa@gmail.com
+28,57,Quesadilla 4,2,3,2022-03-16,bank,10,marcus,74,3145,VIC,Approved,Desktop,howlett,La Cantina,2023-03-27,marcushowlett@gmail.com
+29,57, Burrito,1,4,2022-03-17,bank,15,jason,31,5072,SA,Approved,Mobile,mitroussis,La Taqueria,2023-03-27,jasonmitroussis@gmail.com
+30,57,Fajitas,4,1,2022-03-17,bank,15,michael,75,7005,TAS,Approved,Desktop,ashbolt,La Taqueria,2023-03-27,michaelashbolt@gmail.com
+31,57,Quesadilla 4S,2,4,2022-03-10,VISA-gift-card,15,josh,59,3038,VIC,Approved,Desktop,smetona,La Taqueria,2023-03-30,joshsmetona@gmail.com
+32,57, Burrito,1,2,2022-03-14,VISA-gift-card,15,yacine,22,2155,NSW,Approved,Mobile,berrada,La Taqueria,2023-03-30,yacineberrada@gmail.com
+33,57, Burrito,1,4,2022-03-01,bank,15,brett,60,3880,VIC,Approved,Desktop,blackmore,La Cantina,2023-03-27,brettblackmore@gmail.com
+34,57,Quesadilla 4,2,3,2022-03-17,VISA-gift-card,10,zane,57,3134,VIC,Approved,Desktop,lee,La Taqueria,2023-03-30,zanelee@gmail.com
+35,57,Quesadilla 4,2,3,2022-03-20,bank,10,andrew,71,3792,VIC,Approved,Desktop,lee,El Rancho,2023-03-27,andrewlee@gmail.com
+36,57, Burrito,1,1,2022-03-18,bank,10,stewart,48,7018,TAS,Approved,Mobile,eiszele,El Rancho,2023-03-27,stewarteiszele@gmail.com
+39,57, Burrito,1,2,2022-03-21,bank,15,darren,71,2073,NSW,Approved,Mobile,bark,El Rancho,2023-03-27,darrenbark@gmail.com
+40,57, Burrito,1,4,2022-03-18,bank,15,david,34,3130,VIC,Approved,Desktop,spong,El Rancho,2023-03-27,davidspong@gmail.com
+41,57,Fajitas,4,2,2022-03-15,bank,15,dario,25,2099,NSW,Approved,Desktop,zuffo,La Cantina,2023-03-27,dariozuffo@gmail.com
+42,57, Burrito,1,4,2022-03-17,bank,15,johann,34,3064,VIC,Approved,Mobile,sevian,La Cantina,2023-03-27,johannsevian@gmail.com
+44,57, Burrito,1,1,2022-03-22,bank,15,cameron,62,5158,SA,Approved,Mobile,arnold,La Taqueria,2023-03-27,cameronarnold@gmail.com
+45,57,Quesadilla 4S,2,3,2022-03-24,bank,15,cvetko,73,2321,NSW,Approved,Mobile,misevski,El Rancho,2023-03-30,cvetkomisevski@gmail.com
+46,57, Burrito,1,3,2022-03-06,bank,15,aaron,86,4680,QLD,Approved,Desktop,schweitzer,El Patio,2023-03-27,aaronschweitzer@gmail.com
+47,57, Burrito,1,2,2022-03-24,bank,15,mickey,72,3171,VIC,Approved,Desktop,wong,El Rancho,2023-03-30,mickeywong@gmail.com
+48,57, Burrito,1,2,2022-03-25,bank,10,jon,24,6110,WA,Approved,Mobile,simpson,La Cantina,2023-03-30,jonsimpson@gmail.com
+49,57,Quesadilla 4,2,1,2022-03-25,VISA-gift-card,10,leo,82,3108,VIC,Approved,Desktop,finearty,El Rancho,2023-03-30,leofinearty@gmail.com
+50,57, Burrito,1,1,2022-03-20,VISA-gift-card,10,ashley,56,3163,VIC,Approved,Desktop,INVALID LASTNAME,La Taqueria,2023-03-30,developments@gmail.com
+51,57, Burrito,1,4,2022-03-13,VISA-gift-card,15,jack,70,4680,QLD,Approved,Desktop,scott,El Patio,2023-03-30,jackscott@gmail.com
+52,57, Burrito,1,2,2022-03-23,bank,15,yuen chiu,27,5075,SA,Approved,Mobile,ball,La Cantina,2023-03-30,chiuball@gmail.com
+53,57, Burrito,1,1,2022-03-25,bank,15,jarryn,41,3155,VIC,Approved,Desktop,cullen,El Patio,2023-03-30,jarryncullen@gmail.com
+54,57, Burrito,1,3,2022-03-27,bank,15,gregory,74,3145,VIC,Approved,Mobile,collins,La Cantina,2023-03-30,gregorycollins@gmail.com
+55,57,Quesadilla 4S,2,3,2022-03-28,bank,15,wootton,86,5075,SA,Approved,Desktop,jobson,El Rancho,2023-03-30,woottonjobson@gmail.com
+56,57, Burrito,1,3,2022-03-22,bank,15,kong,55,3130,VIC,Approved,Desktop,elkins,El Rancho,2023-03-30,kongelkins@gmail.com
+57,57, Burrito,1,3,2022-03-25,bank,15,lam,87,3174,VIC,Approved,Mobile,everett,El Rancho,2023-03-30,lameverett@gmail.com
+58,57, Burrito,1,3,2022-03-27,VISA-gift-card,15,eiszele,38,3155,VIC,Approved,Desktop,brownridge,La Taqueria,2023-03-30,eiszelebrownridge@gmail.com
+60,57,Fajitas,4,4,2022-03-29,bank,15,bark,57,3178,VIC,Approved,Desktop,ee,El Rancho,2023-04-06,barkee@gmail.com
+61,57, Burrito,1,2,2022-03-01,bank,15,spong,75,5037,SA,Approved,Desktop,torcasio,El Rancho,2023-03-30,spongtorcasio@gmail.com
+62,57, Burrito,1,3,2022-03-23,bank,15,zuffo,60,3129,VIC,Approved,Mobile,lo,El Rancho,2023-03-30,zuffolo@gmail.com
+63,57,Quesadilla 4S,2,2,2022-03-24,bank,15,sevian,88,3802,VIC,Approved,Mobile,tsai,La Taqueria,2023-03-30,seviantsai@gmail.com
+64,57,Quesadilla 3,2,3,2022-03-15,bank,15,arnold,71,2071,NSW,Approved,Desktop,wootton,El Rancho,2023-03-30,arnoldwootton@gmail.com
+65,57,Quesadilla 4S,2,1,2022-03-30,bank,15,mark,22,2291,NSW,Approved,Desktop,kong,La Cantina,2023-04-06,markkong@gmail.com
+66,57,Quesadilla 4,2,4,2022-03-28,bank,10,jon,49,3101,VIC,Approved,Desktop,lam,El Patio,2023-04-06,jonlam@gmail.com
+67,57,Quesadilla 4,2,2,2022-03-29,bank,15,james,56,6108,WA,Approved,Desktop,eiszele,La Taqueria,2023-04-06,jameseiszele@gmail.com
+68,57, Burrito,1,2,2022-03-31,bank,10,andrew,24,5072,SA,Approved,Mobile,bark,La Cantina,2023-04-06,andrewbark@gmail.com
+70,57, Burrito,1,4,2022-03-31,bank,15,ben,71,3173,VIC,Approved,Desktop,spong,La Taqueria,2023-04-06,benspong@gmail.com
+71,57, Burrito,1,3,2022-03-20,bank,15,daniel,73,3975,VIC,Approved,Desktop,zuffo,El Rancho,2023-03-30,danielzuffo@gmail.com
+73,57,Quesadilla 4S,2,1,2022-03-31,bank,15,stephen,32,2170,NSW,Approved,Mobile,sevian,La Cantina,2023-04-06,stephensevian@gmail.com
+74,57,Tacos al Pastor,3,1,2022-03-17,bank,15,benjamin,70,3805,VIC,Approved,Desktop,arnold,El Patio,2023-04-06,benjaminarnold@gmail.com
+75,57,Quesadilla 4S,2,2,2022-03-29,bank,15,ben,66,3066,VIC,Approved,Mobile,misevski,La Cantina,2023-04-13,benmisevski@gmail.com
+77,57, Burrito,1,4,2022-03-28,bank,15,michael,46,3173,VIC,Approved,Desktop,schweitzer,El Patio,2023-03-30,michaelschweitzer@gmail.com
+78,57, Burrito,1,4,2022-03-01,VISA-gift-card,15,tony,87,6155,WA,Approved,Mobile,felber,La Taqueria,2023-03-30,tonyfelber@gmail.com
+79,57, Burrito,1,1,2022-03-31,bank,15,steve,36,6153,WA,Approved,Desktop,wright,El Rancho,2023-04-06,stevewright@gmail.com
+80,57, Burrito,1,2,2022-03-29,bank,15,scott,78,3138,VIC,Approved,Desktop,pitasi,La Cantina,2023-04-13,scottpitasi@gmail.com
+81,57,Quesadilla 4S,2,2,2022-03-31,bank,15,jeffrey,40,3064,VIC,Approved,Desktop,singh,El Patio,2023-04-06,jeffreysingh@gmail.com
+82,57,Quesadilla 4S,2,3,2022-03-31,bank,15,anthony,84,5011,SA,Approved,Mobile,stanley,El Patio,2023-04-06,anthonystanley@gmail.com
+84,57,Quesadilla 4S,2,4,2022-03-25,bank,15,fatima,88,2196,NSW,Approved,Mobile,hammoud,La Cantina,2023-04-13,fatimahammoud@gmail.com
+85,57,Quesadilla 4,2,2,2022-03-24,bank,10,mark,86,2508,NSW,Approved,Desktop,harding,La Taqueria,2023-04-13,markharding@gmail.com
+87,57,Quesadilla 4S,2,4,2022-03-30,bank,15,ben,83,3356,VIC,Approved,Desktop,barclay,La Taqueria,2023-04-20,benbarclay@gmail.com
+88,57,Tacos al Pastor,3,1,2022-03-09,bank,15,neha,63,3207,VIC,Approved,Mobile,k,La Taqueria,2023-04-28,nehak@gmail.com
+89,57, Burrito,1,4,2022-03-07,bank,15,abhisar,19,3199,VIC,Approved,Mobile,eiszele,La Taqueria,2023-05-04,abhisareiszele@gmail.com
+90,57,Tacos al Pastor,3,3,2022-03-21,bank,15,pam,78,3029,VIC,Approved,Mobile,bark,El Patio,2023-05-04,pambark@gmail.com
+91,57,Quesadilla 4,2,1,2022-03-23,bank,15,sonu,62,3199,VIC,Approved,Desktop,spong,El Patio,2023-04-13,sonuspong@gmail.com
+92,57, Burrito,1,3,2022-03-14,bank,15,jason,30,3040,VIC,Approved,Desktop,zuffo,La Taqueria,2023-04-20,jasonzuffo@gmail.com
+93,57,Quesadilla 4S,2,4,2022-03-21,bank,15,michael,42,2141,NSW,Approved,Mobile,sevian,La Cantina,2023-04-20,michaelsevian@gmail.com
+94,57, Burrito,1,2,2022-03-25,bank,15,aleem,89,3023,VIC,Approved,Desktop,arnold,La Cantina,2023-04-20,aleemarnold@gmail.com
+95,57,Quesadilla 4,2,3,2022-03-28,bank,15,sun,41,3976,VIC,Approved,Desktop,misevski,El Rancho,2023-05-04,sunmisevski@gmail.com
+96,57,Quesadilla 4,2,4,2022-03-30,bank,15,dan,36,3028,VIC,Approved,Desktop,schweitzer,La Taqueria,2023-05-04,danschweitzer@gmail.com
+98,57,Quesadilla 4,2,1,2022-03-23,bank,15,chris,86,7015,TAS,Approved,Mobile,barry,El Patio,2023-05-04,chrisbarry@gmail.com
+99,57,Quesadilla 4S,2,3,2022-03-24,bank,15,adriano,63,2209,NSW,Approved,Mobile,benedek,El Rancho,2023-05-04,adrianobenedek@gmail.com
